@@ -7,3 +7,7 @@
 
 ---
 
+![Image of Raspberry Pi](https://assets.raspberrypi.com/static/50cf4345de1709e0fddf244e1b965b2e/3355f/raspberry-pi-5.webp)
+
+---
+
